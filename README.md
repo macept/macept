@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/amxchang/amxchang/master/profileavatarbanner.png)
+![Banner](https://github.com/macept/macept/blob/main/banner%20(1).png)
 
 A project manager with 5 years of experience in the Chinese education field, managing international and diverse teams across some of the very best universities in China, winner of several awards for high performance, now transferring into the tech industry in Britain.
 
