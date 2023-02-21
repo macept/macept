@@ -7,9 +7,9 @@ Key skills include relationship building and maintenance, coordination of multip
 For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
 
 - 🌱 I’m currently improving my Python skills and learning about APIs.
-- 🔭 I’m currently working on creating webpages and learning how to progam.
-- 😀 I like to crochet, code, read, and draw in my free time.
-- 💬 Ask me about photography.
+- 🔭 I’m currently working on a dynamic pricing app for restaurants.
+- 😀 I like to photograph, code, read, and play Eve Online, Dota 2, and Dark Souls in my free time.
+- 💬 Tell me about your adventures.
 - ⚡ Fun fact: My first line of code was not "Hello World!"
 
-[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=amxchang)](https://github.com/anuraghazra/github-readme-stats)
+[![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=macept)](https://github.com/anuraghazra/github-readme-stats)
